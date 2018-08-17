@@ -1,0 +1,2 @@
+# Othella
+Game without GUI
